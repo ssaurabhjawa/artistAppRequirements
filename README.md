@@ -4,14 +4,14 @@ Based on your requirements, here's an outline of the routing and layout structur
 Routing in SvelteKit:
 
 ## Home Page:
-Route: /
-File: src/routes/index.svelte
-Layout: _layout.svelte (main layout)
+Route: / <br>
+File: src/routes/index.svelte <br>
+Layout: _layout.svelte (main layout) <br>
 
 ## User Registration Page:
-Route: /register
-File: src/routes/register.svelte
-Layout: _layout.svelte (main layout)
+Route: /register <br>
+File: src/routes/register.svelte <br>
+Layout: _layout.svelte (main layout) <br>
 
 ## User Login Page:
 Route: /login
