@@ -3,43 +3,42 @@ Based on your requirements, here's an outline of the routing and layout structur
 
 Routing in SvelteKit:
 
-Home Page:
-
+## Home Page:
 Route: /
 File: src/routes/index.svelte
 Layout: _layout.svelte (main layout)
-User Registration Page:
 
+## User Registration Page:
 Route: /register
 File: src/routes/register.svelte
 Layout: _layout.svelte (main layout)
-User Login Page:
 
+## User Login Page:
 Route: /login
 File: src/routes/login.svelte
 Layout: _layout.svelte (main layout)
-User Dashboard:
 
+## User Dashboard:
 Route: /dashboard
 File: src/routes/dashboard.svelte
 Layout: _layout.svelte (main layout)
-Upload Art Page:
 
+## Upload Art Page:
 Route: /upload
 File: src/routes/upload.svelte
 Layout: _layout.svelte (main layout)
-Permission Management Page:
 
+## Permission Management Page:
 Route: /permissions
 File: src/routes/permissions.svelte
 Layout: _layout.svelte (main layout)
-Admin Dashboard:
 
+## Admin Dashboard:
 Route: /admin
 File: src/routes/admin.svelte
 Layout: _adminLayout.svelte (admin-specific layout)
-Layouts in SvelteKit:
 
+## Layouts in SvelteKit:
 _layout.svelte (main layout):
 
 Contains the overall structure of the application, including header, footer, navigation, and shared components.
